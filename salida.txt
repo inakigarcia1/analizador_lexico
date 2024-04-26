@@ -1,0 +1,8 @@
+( +123123, Entero) 
+( -13221, Entero) 
+( +1231.2, Real) 
+( -112.1, Real) 
+( -012313, ERROR_LEXICO) 
+( +012312.2, Real) 
+( +0(), Parentesis) 
+( 01232.2+(), ERROR_LEXICO) 

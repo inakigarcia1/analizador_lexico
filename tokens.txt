@@ -1,0 +1,6 @@
+a: 0
+b: 1-9
+c: operadores
+d: parentesis
+e: punto
+f: otro simbolo
